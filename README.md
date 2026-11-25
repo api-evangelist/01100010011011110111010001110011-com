@@ -66,7 +66,7 @@
 
 BOTS Capital is a technology and analysis platform that uses the BOTS Selection Framework® to identify the most interesting investment opportunities worldwide. It offers data‑driven analysis, risk‑first assessment, and a range of funds targeting defensive, balanced, and offensive strategies for high‑net‑worth individuals, entrepreneurs, families, and holdings. The platform does not act as a licensed asset manager; independent funds are managed by Elite Fund Management B.V.
 
-**Areas:** Investment · FinTech · WealthManagement · Platform · AI
+**Areas:** Investment · Fintech · Wealth Management · Platform · Artificial Intelligence
 
 ## BOTS Capital on APIs.io
 
@@ -80,14 +80,14 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [01100010011011110111010001110011 Com Authentication](https://apis.io/security/01100010011011110111010001110011-com/01100010011011110111010001110011-com-authentication/)
-- [01100010011011110111010001110011 Com Domain Security](https://apis.io/security/01100010011011110111010001110011-com/01100010011011110111010001110011-com-domain-security/)
+- [BOTS Capital Authentication](https://apis.io/security/01100010011011110111010001110011-com/01100010011011110111010001110011-com-authentication/)
+- [BOTS Capital Domain Security](https://apis.io/security/01100010011011110111010001110011-com/01100010011011110111010001110011-com-domain-security/)
 
 #### OAuth scopes (1)
 
 The permissions the API asks for.
 
-- [01100010011011110111010001110011 Com Scopes](https://apis.io/scopes/01100010011011110111010001110011-com/01100010011011110111010001110011-com-scopes/)
+- [BOTS Capital Scopes](https://apis.io/scopes/01100010011011110111010001110011-com/01100010011011110111010001110011-com-scopes/)
 
 ## Where to find this API
 
@@ -101,25 +101,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 12.5** — emerging · rubric 0.25.0 · scored 2026-10-31
+**Kin Score 12.6** — emerging · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 50.0 |
+| Discoverability | 57.1 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
-| Operational transparency | 15.8 |
+| Operational transparency | 14.3 |
 | Developer ergonomics | 14.3 |
-| Access clarity | 10.5 |
+| Access clarity | 12.8 |
 
-**Agent readiness 3.1** — human-only
+**Agent readiness 0.0** — human-only
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | — |
 | Idempotency | — |
 | Error Semantics | — |
@@ -137,8 +137,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/01100010011011110111010001110011-com/](https://apis.io/providers/01100010011011110111010001110011-com/).
 
